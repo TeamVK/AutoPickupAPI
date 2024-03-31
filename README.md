@@ -1,5 +1,5 @@
 # AutoPickupAPI
-API for [AutoPickup plugin](https://polymart.org/resource/autopickup.153)
+API for [AutoPickup plugin](https://polymart.org/resource/153)
 
 You can use this .jar file in your build environment to create your own StorageHook implementation and register it with AutoPickup thorugh AutoPickupAPI.
 
